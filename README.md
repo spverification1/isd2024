@@ -1,0 +1,1 @@
+This repository contains additional information for paper entitled: AI-based Enhancing of the Smart City Residents' Safety, which will be presented at 32nd International Conference on Information Systems Development (ISD 2024, Gdańsk, August 26 – 28, 2024).
